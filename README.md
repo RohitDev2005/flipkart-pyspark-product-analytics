@@ -103,3 +103,11 @@ flipkart-pyspark-product-analytics/
 │
 ├── README.md
 ```
+## 🌟 About Me
+
+Hi! I’m a Computer Engineering student with a strong interest in **Data Analytics and Data Engineering**.  
+I enjoy working with SQL, data modeling, and building end-to-end data pipelines.  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohit-devshatwar-178249296)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Rohit_Devshatwar/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/profile/devshatwxqs5)
